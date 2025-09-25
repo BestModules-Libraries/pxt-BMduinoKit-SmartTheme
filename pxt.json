@@ -1,0 +1,14 @@
+{
+    "name": "BMduinoKit-SmartTheme",
+    "version": "1.0.0",
+    "description": "micro:bit積木for智慧家居&智慧農業",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true
+}
